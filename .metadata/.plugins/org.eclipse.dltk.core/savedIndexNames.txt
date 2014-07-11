@@ -1,0 +1,1 @@
+/Users/Harvey/Lua-Drip/.metadata/.plugins/org.eclipse.dltk.core/3380345127.index
