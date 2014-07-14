@@ -5,6 +5,6 @@ main()
 
 print("hello lua")
 
-str = "hello lua"
+var str = "hello lua"
 
-print(str);
+print();

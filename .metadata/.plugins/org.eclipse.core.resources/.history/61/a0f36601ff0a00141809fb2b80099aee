@@ -5,6 +5,3 @@ main()
 
 print("hello lua")
 
-str = "hello lua"
-
-print(str);
