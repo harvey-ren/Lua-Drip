@@ -3,10 +3,10 @@ local function main()
 end
 main()
 
---æ‰“å°
+--´òÓ¡
 print("hello lua")
 
---åˆ›å»ºæ–°çš„å­—ç¬¦ä¸²
+--´´½¨ĞÂµÄ×Ö·û´®
 str = "hello lua"
 
 print(str);
