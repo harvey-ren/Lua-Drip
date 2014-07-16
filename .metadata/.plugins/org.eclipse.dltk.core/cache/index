@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
-<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="8" environment="org.eclipse.dltk.core.environment.localEnvironment">
-  <entries path="/Users/Harvey/Lua-Drip/HelloLua/src" timestamp="1405071335000" lastAccessTime="1405305120937">
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="10" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="/Users/Harvey/Lua-Drip/HelloLua/src" timestamp="1405071335000" lastAccessTime="1405479769733">
     <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/1178952976/1.idx"/>
   </entries>
 </cache:CacheIndex>
